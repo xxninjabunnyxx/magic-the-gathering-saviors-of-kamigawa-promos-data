@@ -1,0 +1,18 @@
+---
+object: set
+id: 31daa10a-9490-42aa-a630-1a9c2d9ae492
+code: psok
+name: Saviors of Kamigawa Promos
+uri: https://api.scryfall.com/sets/31daa10a-9490-42aa-a630-1a9c2d9ae492
+scryfall_uri: https://scryfall.com/sets/psok
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apsok&unique=prints
+released_at: '2005-06-03'
+set_type: promo
+card_count: 2
+parent_set_code: sok
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: chk
+block: Kamigawa
+icon_svg_uri: https://svgs.scryfall.io/sets/sok.svg?1694404800
